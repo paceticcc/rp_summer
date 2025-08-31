@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\rp-summer\\rp2025-summer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|d:\\rp-summer\\rp2025-summer\\task01\\stringlib\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|solutionrelative:task01\\stringlib\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0A7E487-5269-4016-8F95-F92228BFE106}|task01\\StringLib.Tests\\StringLib.Tests.csproj|d:\\rp-summer\\rp2025-summer\\task01\\stringlib.tests\\textutiltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A7E487-5269-4016-8F95-F92228BFE106}|task01\\StringLib.Tests\\StringLib.Tests.csproj|solutionrelative:task01\\stringlib.tests\\textutiltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|d:\\rp-summer\\rp2025-summer\\task01\\stringlib\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|solutionrelative:task01\\stringlib\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|d:\\rp-summer\\rp2025-summer\\task02\\geometrylib.tests\\sphere3dtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|solutionrelative:task02\\geometrylib.tests\\sphere3dtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|d:\\rp-summer\\rp2025-summer\\task03\\modellib\\phonecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|solutionrelative:task03\\modellib\\phonecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|d:\\rp-summer\\rp2025-summer\\task03\\modellib\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|solutionrelative:task03\\modellib\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|d:\\rp-summer\\rp2025-summer\\task03\\modellib.tests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|solutionrelative:task03\\modellib.tests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|d:\\rp-summer\\rp2025-summer\\task03\\modellib.tests\\phonecalltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|solutionrelative:task03\\modellib.tests\\phonecalltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|d:\\rp-summer\\rp2025-summer\\task03\\modellib\\modellib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|solutionrelative:task03\\modellib\\modellib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Sphere3DTests.cs",
+              "DocumentMoniker": "D:\\rp-summer\\rp2025-summer\\task02\\GeometryLib.Tests\\Sphere3DTests.cs",
+              "RelativeDocumentMoniker": "task02\\GeometryLib.Tests\\Sphere3DTests.cs",
+              "ToolTip": "D:\\rp-summer\\rp2025-summer\\task02\\GeometryLib.Tests\\Sphere3DTests.cs",
+              "RelativeToolTip": "task02\\GeometryLib.Tests\\Sphere3DTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:50:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneNumberTests.cs",
+              "DocumentMoniker": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib.Tests\\PhoneNumberTests.cs",
+              "RelativeDocumentMoniker": "task03\\ModelLib.Tests\\PhoneNumberTests.cs",
+              "ToolTip": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib.Tests\\PhoneNumberTests.cs",
+              "RelativeToolTip": "task03\\ModelLib.Tests\\PhoneNumberTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:50:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhoneCallTests.cs",
+              "DocumentMoniker": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib.Tests\\PhoneCallTests.cs",
+              "RelativeDocumentMoniker": "task03\\ModelLib.Tests\\PhoneCallTests.cs",
+              "ToolTip": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib.Tests\\PhoneCallTests.cs",
+              "RelativeToolTip": "task03\\ModelLib.Tests\\PhoneCallTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:50:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneCall.cs",
+              "DocumentMoniker": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib\\PhoneCall.cs",
+              "RelativeDocumentMoniker": "task03\\ModelLib\\PhoneCall.cs",
+              "ToolTip": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib\\PhoneCall.cs",
+              "RelativeToolTip": "task03\\ModelLib\\PhoneCall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:50:28.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModelLib",
+              "DocumentMoniker": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib\\ModelLib.csproj",
+              "RelativeDocumentMoniker": "task03\\ModelLib\\ModelLib.csproj",
+              "ToolTip": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib\\ModelLib.csproj",
+              "RelativeToolTip": "task03\\ModelLib\\ModelLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T19:50:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "task03\\ModelLib\\PhoneNumber.cs",
+              "ToolTip": "D:\\rp-summer\\rp2025-summer\\task03\\ModelLib\\PhoneNumber.cs",
+              "RelativeToolTip": "task03\\ModelLib\\PhoneNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:36:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TextUtil.cs",
               "DocumentMoniker": "D:\\rp-summer\\rp2025-summer\\task01\\StringLib\\TextUtil.cs",
               "RelativeDocumentMoniker": "task01\\StringLib\\TextUtil.cs",
               "ToolTip": "D:\\rp-summer\\rp2025-summer\\task01\\StringLib\\TextUtil.cs",
               "RelativeToolTip": "task01\\StringLib\\TextUtil.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T19:02:01.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TextUtilTest.cs",
               "DocumentMoniker": "D:\\rp-summer\\rp2025-summer\\task01\\StringLib.Tests\\TextUtilTest.cs",
               "RelativeDocumentMoniker": "task01\\StringLib.Tests\\TextUtilTest.cs",
               "ToolTip": "D:\\rp-summer\\rp2025-summer\\task01\\StringLib.Tests\\TextUtilTest.cs",
               "RelativeToolTip": "task01\\StringLib.Tests\\TextUtilTest.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T18:57:30.437Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

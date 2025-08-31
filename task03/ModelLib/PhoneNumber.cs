@@ -45,29 +45,6 @@ public class PhoneNumber
         {
             throw new ArgumentException("Wrong phone number format");
         }
-        //if (text == "")
-        //{
-        //    throw new Exception("Wrong format");
-        //}
-
-        //int i = 0;
-        //bool plusFounded = false;
-        //if (text[i] == '+')
-        //{
-        //    i++;
-        //    plusFounded = true;
-        //}
-
-        //while(char.IsDigit(text[i]) && i < text.Length)
-        //    i++;
-        //if (plusFounded)
-        //{
-
-        //}
-        //else
-        //{
-
-        //}
     }
 
     public override string ToString()

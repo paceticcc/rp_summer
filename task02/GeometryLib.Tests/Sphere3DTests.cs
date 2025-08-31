@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-namespace GeometryLib.Tests;
+﻿namespace GeometryLib.Tests;
 public class Sphere3DTests
 {
     [Theory]
