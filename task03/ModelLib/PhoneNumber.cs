@@ -24,7 +24,6 @@ public class PhoneNumber
 
         if (phoneNumberRegex.Matches(text).Count > 0)
         {
-            // нужно сделать сохранение номера без плюса в начале и доп номера без х в начале
             _number = numberRegex.Match(text).ToString();
             if (_number[0] == '+')
             {
